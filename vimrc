@@ -130,7 +130,7 @@ Plug 'vim-scripts/matchit.zip'
 Plug 'phongnh/vim-search-helpers'
 
 " Extended f, F, t and T key mappings for Vim.
-Plug 'rhysd/clever-f.vim'
+"Plug 'rhysd/clever-f.vim'
 
 " Improved incremental searching for Vim
 Plug 'haya14busa/incsearch.vim'
